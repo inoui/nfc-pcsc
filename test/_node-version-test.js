@@ -2,7 +2,7 @@
 
 const mock = require('mock-require');
 
-mock('@pokusew/pcsclite', {});
+mock('pcsclite', {});
 
 const {
 	NFC,
