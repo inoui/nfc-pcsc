@@ -34,6 +34,3 @@ captures
 
 # node, npm
 node_modules/
-
-# built source (pushed into npm)
-/dist/
